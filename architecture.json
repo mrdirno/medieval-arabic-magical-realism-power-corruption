@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-arabic-magical-realism-power-corruption",
+  "title": "The Return of a Borrowed Shadow",
+  "tagline": "In a city where shadows can be stolen, a starving boy's desperate act unleashes a silent magic that reveals the corrupting price of power and possession.",
+  "target_words": 70506,
+  "actual_words": 70506,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Hunger and Survival",
+    "The Corruption of Power",
+    "The Weight of the Unseen",
+    "Identity and Belonging"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Luxury of Intent",
+      "words": 5875
+    },
+    {
+      "ch": 2,
+      "title": "The Pearl and the Persistent Fern",
+      "words": 5875
+    },
+    {
+      "ch": 3,
+      "title": "Hunger as a Spatial Ache",
+      "words": 5875
+    },
+    {
+      "ch": 4,
+      "title": "The Metallic Taste of Power",
+      "words": 5875
+    },
+    {
+      "ch": 5,
+      "title": "Listening Through the Silence",
+      "words": 5875
+    },
+    {
+      "ch": 6,
+      "title": "A Breath in the Violet Light",
+      "words": 5875
+    },
+    {
+      "ch": 7,
+      "title": "The Path of the Breathing Map",
+      "words": 5875
+    },
+    {
+      "ch": 8,
+      "title": "The Sentinel's Silent Question",
+      "words": 5875
+    },
+    {
+      "ch": 9,
+      "title": "Dust, Silence, and Bruised Light",
+      "words": 5875
+    },
+    {
+      "ch": 10,
+      "title": "The Theft of Certainty",
+      "words": 5875
+    },
+    {
+      "ch": 11,
+      "title": "A Mosaic Soul at the Threshold",
+      "words": 5875
+    },
+    {
+      "ch": 12,
+      "title": "The Return of a Borrowed Shadow",
+      "words": 5875
+    }
+  ]
+}
